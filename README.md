@@ -6,6 +6,8 @@ the box really does get stranded on the conveyor where you can see it.
 
 It runs offline and it's vendor neutral. No license key, no subscription, nothing locked behind a demo.
 
+<p align="center"><img src="assets/coilworks-demo.gif" width="820" alt="Coilworks running a start/stop seal-in: press Start, the belt runs and boxes trip the photo-eye while the counter counts; press Stop, the belt stops and the boxes are stranded"></p>
+
 **[Download the latest release](https://github.com/Phaenex/coilworks-releases/releases/latest)**
 · **[Try it in your browser](https://coilworks-gray.vercel.app)** (nothing to install)
 
@@ -28,6 +30,9 @@ Coilworks isn't code signed yet, so the first time you run it Windows may show t
 can check it against `SHA256SUMS.txt` if you want to be sure.
 
 ## What's in it
+
+![The Coilworks workspace: ladder rungs on the left with power flow highlighted, the 3D conveyor on the right, inputs and outputs below](assets/coilworks-running.png)
+
 
 - A ladder editor with 79 instructions, each with a worked example you can load and run
 - Machines to watch and build: a tank, conveyors, a robot cell and more, in 3D or 2D
