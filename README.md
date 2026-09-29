@@ -21,7 +21,7 @@ It runs offline and it's vendor neutral. No license key, no subscription, nothin
 
 Windows 10 or 11. `SHA256SUMS.txt` on each release lists the checksum for every file.
 
-The browser version has everything except talking to real hardware over Modbus and saving tutor keys.
+The browser version has everything except saving tutor keys. Neither version connects to real hardware yet: Modbus is covered in the lessons and a simulated network.
 
 ## "Windows protected your PC"
 
